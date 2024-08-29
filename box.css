@@ -1,0 +1,93 @@
+header center {
+    width: 100vw;
+    background-image: linear-gradient(rgb(128, 111, 0), rgb(175, 34, 34));
+    padding: 25px;
+    font-size: 25px;
+    font-family:'Times new Roman';
+    color: whitesmoke;
+    text-decoration: underline;
+    position: fixed;
+    top: 0;
+
+}
+.Cappuccino {
+    /* margin-top: 23px;
+    margin-left: 23px;
+    margin-bottom: 40px;
+    margin-right:23px;
+     */
+     /* padding: 23px;
+     border:12px;
+     margin: 23px;
+     border-top-left-radius: ;
+      */
+}
+.Cappuccino {
+    /* box-sizing:border-box; */
+    top: 60px;
+    background-color: white;
+    border-radius: 2px;
+    box-shadow: 6px 6px 6px 6px;
+    margin: 23px;
+     padding: 15px; 
+     width: 25vw; 
+    text-align: center;
+    z-index: -1;
+    /* display:inline; */
+    
+    position: relative;
+}
+.latte{
+    top: 60px;
+    background-color: white;
+    border-radius: 2px;
+    box-shadow: 6px 6px 6px 6px;
+    margin: 23px;
+     padding: 15px; 
+     width: 25vw; 
+    text-align: center;
+    z-index: -1;
+    /* display:inline; */
+    position:relative
+    
+    
+    
+}
+
+.espresso{
+    top: 60px;
+    background-color: white;
+    border-radius: 2px;
+    box-shadow: 6px 6px 6px 6px;
+    margin: 23px;
+     padding: 10px; 
+     width: 25vw; 
+    text-align: center;
+    z-index: -1;
+    /* display:inline; */
+    position:relative
+    
+    
+    
+}
+
+
+div p {
+    display: flex;
+}
+body {
+    background-color: antiquewhite;
+}
+.flex{
+    display: flex;
+    gap: 80px;
+}
+footer {
+    width: 100vw;
+    background-image: linear-gradient(rgb(128, 111, 0), rgb(175, 34, 34));
+   
+    font-size: 25px;
+    font-family:'Times new Roman';
+    color: whitesmoke;
+   margin-top: 100px;
+}
